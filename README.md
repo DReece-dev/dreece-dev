@@ -1,13 +1,14 @@
-# Dylan - Junior Front End Developer
+# Dylan - Programmer
 
-👋 Hello! I'm Dylan, a passionate Junior Front End Developer based in the UK. I specialize in creating visually stunning and highly functional websites using modern web technologies.
+👋 Hello! I'm Dylan, a passionate Programmer based in the UK. I am a versatile programmer specializing in creating visually stunning and highly functional websites using modern web technologies. My expertise also extends to general programming, allowing me to tackle a wide array of technical challenges.
 
 ## 🚀 Core Skills
 
 - **HTML5**: Semantic markup, web forms, and multimedia elements
 - **CSS**: Advanced CSS (Flexbox & Grid), Animations, Positioning, Responsive Design
 - **JavaScript**: ES6+ features, DOM manipulation
-- **Accessibility**: WCAG 2.1 guidelines implementation
+- **Python**: Creating automated scripts and a diverse range of applications.
+- **Accessibility**: WCAG 3.1 guidelines implementation
 - **CSS Preprocessors**: SASS
 - **CSS Frameworks**: Bootstrap, Foundation, Bulma, Tailwind
 - **Custom Framework**: Slushii CSS (my own creation for rapid prototyping)
@@ -18,9 +19,9 @@
 - **JSON & APIs**: Data handling and integration
 - **Build Tools**: POSTCSS with Gulp
 - **Version Control**: Git & GitHub
-- **Command Line**: Bash & zsh
+- **Command Line**: Bash & zsh - Mainly on MacOS
 - **Server-side**: Node.js basics
-- **IDEs**: Atom, VSCode
+- **IDEs/Text Editors**: Zed, VSCode, JetBrain Suite
 
 ## 🌱 Currently Learning
 
@@ -28,13 +29,12 @@
 - Agile methodologies (Scrum Framework)
 - Web Security (HTTPS, CORS, OWASP Risks, Content Security Policy)
 - Alternative Package Managers (yarn & pnpm)
-- React.js Fundamentals
 - Test-Driven Development (TDD)
-- **Python**: Expanding my programming language repertoire
+- I am currently expanding my Python knowledge, focusing on more advanced concepts, particularly in the fields of Artificial Intelligence and Machine Learning.
 
 ## 🤝 Let's Connect!
 
-I'm always open to new challenges and excited to collaborate with other developers. Feel free to reach out to me here on GitHub for any opportunities or interesting projects!
+I'm always open to new challenges and excited to collaborate with other programmers/developers. Feel free to reach out to me here on GitHub for any opportunities or interesting projects!
 
 ---
 
